@@ -1,0 +1,130 @@
+[
+    {
+      "id": 1,
+      "name": "Mount Everest",
+      "elevation": "8,848.86 m (29,031.7 ft)",
+      "range": "Himalayas",
+      "country": "Nepal, China",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Everest_kalapatthar_crop.jpg/640px-Everest_kalapatthar_crop.jpg"
+    },
+    {
+      "id": 2,
+      "name": "K2",
+      "elevation": "8,611 m (28,251 ft)",
+      "range": "Karakoram",
+      "country": "Pakistan, China",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/K2_2006b.jpg/640px-K2_2006b.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kangchenjunga",
+      "elevation": "8,586 m (28,169 ft)",
+      "range": "Himalayas",
+      "country": "Nepal, India",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kangchenjunga_from_Sandakphu.jpg/640px-Kangchenjunga_from_Sandakphu.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Lhotse",
+      "elevation": "8,516 m (27,940 ft)",
+      "range": "Himalayas",
+      "country": "Nepal, China",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lhotse-from-chhukung.jpg/640px-Lhotse-from-chhukung.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Makalu",
+      "elevation": "8,485 m (27,838 ft)",
+      "range": "Himalayas",
+      "country": "Nepal, China",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Makalu_air.jpg/640px-Makalu_air.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cho Oyu",
+      "elevation": "8,188 m (26,864 ft)",
+      "range": "Himalayas",
+      "country": "Nepal, China",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Cho_Oyu_from_Gokyo.jpg/640px-Cho_Oyu_from_Gokyo.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Dhaulagiri I",
+      "elevation": "8,167 m (26,795 ft)",
+      "range": "Himalayas",
+      "country": "Nepal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dhaulagiri%2C_Nepal.jpg/640px-Dhaulagiri%2C_Nepal.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Manaslu",
+      "elevation": "8,163 m (26,781 ft)",
+      "range": "Himalayas",
+      "country": "Nepal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Manaslu_from_Marsyangdi_River.jpg/640px-Manaslu_from_Marsyangdi_River.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Nanga Parbat",
+      "elevation": "8,126 m (26,660 ft)",
+      "range": "Himalayas",
+      "country": "Pakistan",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Nanga_Parbat_1.jpg/640px-Nanga_Parbat_1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Annapurna I",
+      "elevation": "8,091 m (26,545 ft)",
+      "range": "Himalayas",
+      "country": "Nepal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Annapurna_I_ABC.jpg/640px-Annapurna_I_ABC.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Gasherbrum I",
+      "elevation": "8,080 m (26,510 ft)",
+      "range": "Karakoram",
+      "country": "Pakistan, China",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gasherbrum_I.jpg/640px-Gasherbrum_I.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Broad Peak",
+      "elevation": "8,051 m (26,414 ft)",
+      "range": "Karakoram",
+      "country": "Pakistan, China",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BroadPeak.jpg/640px-BroadPeak.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Gasherbrum II",
+      "elevation": "8,035 m (26,362 ft)",
+      "range": "Karakoram",
+      "country": "Pakistan, China",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gasherbrum_II.jpg/640px-Gasherbrum_II.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Shishapangma",
+      "elevation": "8,027 m (26,335 ft)",
+      "range": "Himalayas",
+      "country": "China",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Shishapangma.jpg/640px-Shishapangma.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Gasherbrum III",
+      "elevation": "7,952 m (26,089 ft)",
+      "range": "Karakoram",
+      "country": "Pakistan, China",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gasherbrum_III.jpg/640px-Gasherbrum_III.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Annapurna II",
+      "elevation": "7,937 m (26,040 ft)",
+      "range": "Himalayas",
+      "country": "Nepal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Annapurna_II_Massif%2"
+    }
+]  
